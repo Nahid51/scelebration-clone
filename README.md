@@ -23,10 +23,10 @@ In this assingment, you have to create a clone of the home page of [Scelebration
 
 1. Clone this repository.
 2. Use `yarn install` to install all the dependencies.
-3. Go through the code base. There is ==src/assets/images== has the images and ==src/components== has the components. Basic setup is already done. You will have to make changes to this code to make it look like the original website.
-4. Go to src/components and build components as per the requirement.
+3. Go through the code base. There is **src/assets/images** has the images and **src/components** has the components. Basic setup is already done. You will have to make changes to this code to make it look like the original website.
+4. Go to **src/components** and build components as per the requirement.
 5. You are not limited to what the original homepage is, be creative and design better, otherwise atleast try to make it look like the original website.
-6. After building your components, import them in ==src/App.js==.
+6. After building your components, import them in **src/App.js**.
 7. See whether all the TODOs are done. After completing your build use `yarn build` this command to develop you build.
 8. Host it on [Vercel](https://vercel.com/) or [Firebase](https://firebase.google.com) or any other hosting service.
 9. After deploying, go to the deployed website and check if everything looks good.
