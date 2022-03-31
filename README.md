@@ -5,7 +5,7 @@
 
 ## Scelebration Clone
 
-In this assingment, you have to create a clone of the home page of [Scelebration](https:/scelebration.com)
+In this assingment, you have to create a clone of the home page of [Scelebration](https://scelebration.com)
 
 ### Pre-requisite Knowledge
 
