@@ -39,3 +39,6 @@ In this assingment, you have to create a clone of the home page of [Scelebration
 - [TailwindCSS](https://tailwindcss.com/)
 - [Vercel](https://vercel.com/)
 - [Firebase](https://firebase.google.com/)
+
+
+## Deadline to submit this project is 7th April 2022, you can also submit your work at hr@ayurheals.com
